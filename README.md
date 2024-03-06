@@ -9,5 +9,5 @@ I'm a full-stack developer, these days I mostly work on Blockchain protocols in 
 </p>
 
 <h1 align="center"></h1>
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=sdbondi&theme=github" /> 
+ <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sdbondi&theme=github" /> 
 <h1 align="center"></h1>
